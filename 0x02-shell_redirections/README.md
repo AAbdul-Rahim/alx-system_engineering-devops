@@ -1,1 +1,1 @@
-0x02 shell IO redirections and filters read file
+Shell I/O reirections
